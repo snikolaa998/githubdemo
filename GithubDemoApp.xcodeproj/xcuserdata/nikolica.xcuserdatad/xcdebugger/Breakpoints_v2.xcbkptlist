@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "6553E51C-5CDC-4A60-9A2A-5DA03143254F"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "583A8B0B-F438-4FA8-84CD-0AEFAFAA7D20"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubDemoApp/RepoDetails/RepoDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "dispatch(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8D98FC95-169F-4610-9825-DCFFFC8A162D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GithubDemoApp/RepoDetails/RepoDetailsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "dispatch(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8D98FC95-169F-4610-9825-DCFFFC8A162D - da2ca868d14d98f5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(10) suspend resume partial function for closure #1 @Sendable () async -&gt; () in GithubDemoApp.RepoDetailsViewModel.dispatch(GithubDemoApp.RepoDetailsViewModel.Action) -&gt; ()"
+                  moduleName = "GithubDemoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikolica/Documents/NF%20Innova/GithubDemoApp/GithubDemoApp/RepoDetails/RepoDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "8D98FC95-169F-4610-9825-DCFFFC8A162D - a539d6e175cb2df4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(11) suspend resume partial function for closure #1 @Sendable () async -&gt; () in GithubDemoApp.RepoDetailsViewModel.dispatch(GithubDemoApp.RepoDetailsViewModel.Action) -&gt; ()"
+                  moduleName = "GithubDemoApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nikolica/Documents/NF%20Innova/GithubDemoApp/GithubDemoApp/RepoDetails/RepoDetailsViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "54"
+                  endingLineNumber = "54"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
